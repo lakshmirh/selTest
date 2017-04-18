@@ -1,0 +1,9 @@
+c:\users\lakshmi\documents\visual studio 2015\Projects\selTest\selTest\bin\Debug\selTest.dll
+c:\users\lakshmi\documents\visual studio 2015\Projects\selTest\selTest\bin\Debug\selTest.pdb
+c:\users\lakshmi\documents\visual studio 2015\Projects\selTest\selTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+c:\users\lakshmi\documents\visual studio 2015\Projects\selTest\selTest\bin\Debug\WebDriver.dll
+c:\users\lakshmi\documents\visual studio 2015\Projects\selTest\selTest\bin\Debug\WebDriver.xml
+c:\users\lakshmi\documents\visual studio 2015\Projects\selTest\selTest\obj\Debug\selTest.csprojResolveAssemblyReference.cache
+c:\users\lakshmi\documents\visual studio 2015\Projects\selTest\selTest\obj\Debug\selTest.dll
+c:\users\lakshmi\documents\visual studio 2015\Projects\selTest\selTest\obj\Debug\selTest.pdb
+c:\users\lakshmi\documents\visual studio 2015\Projects\selTest\selTest\bin\Debug\geckodriver.exe

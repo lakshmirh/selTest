@@ -1,0 +1,16 @@
+c:\users\lakshmi\documents\visual studio 2015\Projects\selTest\selTest\bin\Debug\geckodriver.exe
+c:\users\lakshmi\documents\visual studio 2015\Projects\selTest\selTest\bin\Debug\selTest.dll
+c:\users\lakshmi\documents\visual studio 2015\Projects\selTest\selTest\bin\Debug\selTest.pdb
+c:\users\lakshmi\documents\visual studio 2015\Projects\selTest\selTest\bin\Debug\appium-dotnet-driver.dll
+c:\users\lakshmi\documents\visual studio 2015\Projects\selTest\selTest\bin\Debug\Castle.Core.dll
+c:\users\lakshmi\documents\visual studio 2015\Projects\selTest\selTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+c:\users\lakshmi\documents\visual studio 2015\Projects\selTest\selTest\bin\Debug\Newtonsoft.Json.dll
+c:\users\lakshmi\documents\visual studio 2015\Projects\selTest\selTest\bin\Debug\WebDriver.dll
+c:\users\lakshmi\documents\visual studio 2015\Projects\selTest\selTest\bin\Debug\WebDriver.Support.dll
+c:\users\lakshmi\documents\visual studio 2015\Projects\selTest\selTest\bin\Debug\appium-dotnet-driver.xml
+c:\users\lakshmi\documents\visual studio 2015\Projects\selTest\selTest\bin\Debug\Castle.Core.xml
+c:\users\lakshmi\documents\visual studio 2015\Projects\selTest\selTest\bin\Debug\Newtonsoft.Json.xml
+c:\users\lakshmi\documents\visual studio 2015\Projects\selTest\selTest\bin\Debug\WebDriver.xml
+c:\users\lakshmi\documents\visual studio 2015\Projects\selTest\selTest\bin\Debug\WebDriver.Support.xml
+c:\users\lakshmi\documents\visual studio 2015\Projects\selTest\selTest\obj\Debug\selTest.dll
+c:\users\lakshmi\documents\visual studio 2015\Projects\selTest\selTest\obj\Debug\selTest.pdb

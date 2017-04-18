@@ -96,5 +96,46 @@ namespace Wikipedia
             }
         }
 
+        //New scenario
+        //To Test Connect with us
+        //Given I am on Contact page
+        //when i click on connect with us
+        //then it takes to linked in profile page
+        [TestMethod]
+        public void ConnectWithUs()
+        {
+            try
+            {
+                GoToContactUsPage();
+                Thread.Sleep(2000);
+                driver.FindElement(By.XPath(".//*[@id='contact_anchor']/div[2]/div/ul/li[2]/a/span")).Click();
+                Thread.Sleep(10000);
+
+
+                String BaseWindow = driver.CurrentWindowHandle;
+
+                ReadOnlyCollection<string> handles = driver.WindowHandles;
+
+                foreach (string handle in handles)
+                {
+
+                    if (handle != BaseWindow)
+                    {
+                        driver.SwitchTo().Window(handle).Title.Contains("Linkedin");
+                    }
+                }
+                Console.WriteLine(driver.Title);
+                CloseDriver();
+
+            }
+            catch(Exception ex)
+            {
+                Console.WriteLine(ex.Message);
+                Console.WriteLine(ex.StackTrace);
+            }
+        }
+
+
+
     }
 }

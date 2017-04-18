@@ -14,3 +14,20 @@ c:\users\lakshmi\documents\visual studio 2015\Projects\selTest\selTest\bin\Debug
 c:\users\lakshmi\documents\visual studio 2015\Projects\selTest\selTest\bin\Debug\WebDriver.Support.xml
 c:\users\lakshmi\documents\visual studio 2015\Projects\selTest\selTest\obj\Debug\selTest.dll
 c:\users\lakshmi\documents\visual studio 2015\Projects\selTest\selTest\obj\Debug\selTest.pdb
+C:\Users\Lakshmi\Documents\GitHub\selTest\selTest\bin\Debug\geckodriver.exe
+C:\Users\Lakshmi\Documents\GitHub\selTest\selTest\bin\Debug\selTest.dll
+C:\Users\Lakshmi\Documents\GitHub\selTest\selTest\bin\Debug\selTest.pdb
+C:\Users\Lakshmi\Documents\GitHub\selTest\selTest\bin\Debug\appium-dotnet-driver.dll
+C:\Users\Lakshmi\Documents\GitHub\selTest\selTest\bin\Debug\Castle.Core.dll
+C:\Users\Lakshmi\Documents\GitHub\selTest\selTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Lakshmi\Documents\GitHub\selTest\selTest\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Lakshmi\Documents\GitHub\selTest\selTest\bin\Debug\WebDriver.dll
+C:\Users\Lakshmi\Documents\GitHub\selTest\selTest\bin\Debug\WebDriver.Support.dll
+C:\Users\Lakshmi\Documents\GitHub\selTest\selTest\bin\Debug\appium-dotnet-driver.xml
+C:\Users\Lakshmi\Documents\GitHub\selTest\selTest\bin\Debug\Castle.Core.xml
+C:\Users\Lakshmi\Documents\GitHub\selTest\selTest\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Lakshmi\Documents\GitHub\selTest\selTest\bin\Debug\WebDriver.xml
+C:\Users\Lakshmi\Documents\GitHub\selTest\selTest\bin\Debug\WebDriver.Support.xml
+C:\Users\Lakshmi\Documents\GitHub\selTest\selTest\obj\Debug\Wikipedia.csprojResolveAssemblyReference.cache
+C:\Users\Lakshmi\Documents\GitHub\selTest\selTest\obj\Debug\selTest.dll
+C:\Users\Lakshmi\Documents\GitHub\selTest\selTest\obj\Debug\selTest.pdb
